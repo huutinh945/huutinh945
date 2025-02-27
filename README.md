@@ -19,4 +19,18 @@
   - MySQL
   - MongoDB
 
+## 🌟 项目经历
+- **[社交媒体平台](https://github.com/huutinh945/social-media-platform)**：
+  - **描述**：一个允许用户创建账户、发布内容和互动的社交媒体应用。
+  - **技术栈**：React, Node.js, MongoDB。
+  - **亮点**：实现了实时消息通知和用户动态更新功能。
 
+- **[电子商务网站](https://github.com/huutinh945/ecommerce-website)**：
+  - **描述**：一个在线购物平台，用户可以浏览商品、下单和进行支付。
+  - **技术栈**：Vue.js, Ruby on Rails, MySQL。
+  - **亮点**：支持购物车和订单管理，提升用户购物体验。
+
+- **[个人日记应用](https://github.com/huutinh945/personal-diary)**：
+  - **描述**：一个帮助用户记录日常生活和心情的应用，支持文本和图片记录。
+  - **技术栈**：JavaScript, HTML, CSS。
+  - **亮点**：实现了搜索和标签功能，用户可以轻松查找日记。
